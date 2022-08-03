@@ -14,7 +14,7 @@
 ## Installation
 
 ```
-$ go get github.com/whyrusleeping/ipfs-key
+$ go install github.com/magistersart/ipfs-key
 ```
 
 ## Usage
